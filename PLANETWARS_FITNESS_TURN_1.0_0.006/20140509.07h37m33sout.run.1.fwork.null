@@ -1,0 +1,19 @@
+algorithm.evolutionary.crossover.prob = 1.0
+algorithm.evolutionary.fitness.type = Max
+algorithm.evolutionary.generations = 100
+algorithm.evolutionary.mutator.prob = 0.006
+algorithm.evolutionary.population.size = 16
+algorithm.evolutionary.selector.size = 8
+algorithm.evolutionary.selector.tournament.size = 2
+configuration.log.folder = /home/antares/PlanetWars_PG_Estudio_Fitness/
+configuration.numthreads = 1
+planetwars.depth.initial = 3
+planetwars.depth.max = 7
+planetwars.environment.folder = /home/antares/PlanetWars_PG_Estudio_Fitness/environment
+planetwars.environment.mapsfolder = maps
+planetwars.fitness.maplist = map76.txt map69.txt map7.txt map11.txt map26.txt
+planetwars.fitness.runspermap = 1
+planetwars.perc.stepsize = 0.25
+problem.name = PLANETWARS
+/home/antares/PlanetWars_PG_Estudio_Fitness//PLANETWARS_1.0_0.006/20140509.07h37m33sout.run.1.fwork.null
+IT;EVALUATIONS;TIME;BEST_F;AVERAGE_F;BEST_DEPTH;AVERAGE_DEPTH;BEST_SIZE;AVERAGE_SIZE;BEST_AGE;AVERAGE_AGE;
